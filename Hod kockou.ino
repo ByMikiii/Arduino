@@ -64,5 +64,5 @@ void kocka2() {
     
     
     
-    https://imgur.com/oH9NMan
-    https://ctrlv.link/UGui
+   // https://imgur.com/oH9NMan
+   // https://ctrlv.link/UGui
